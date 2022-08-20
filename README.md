@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently enrolled at Microverse, learning Full Stack Development.<br>I'm interested in modern technologies and software development advances.<br>In my free time, I like to spend time with family and work on my side projects, you can find more about them on my pinned repositories.
+I'm currently enrolled at Microverse, learning Full-Stack Development.<br>I'm interested in modern technologies and software development advances.<br>In my free time, I like to spend time with family and work on my side projects, you can find more about them on my pinned repositories.
 
 
 ## 🌐 Socials:
